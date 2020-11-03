@@ -11,4 +11,15 @@
 {13,1,1},
 {4,"_$Session$_.Start",2},
 {4,"_$InfoBase$_.ConfigUpdate",3},
-{4,"_$Session$_.Finish",4}
+{4,"_$Session$_.Finish",4},
+{3,"1CV8",2},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,b7afde35-8205-44c5-9096-c1371e8b5d48,"",1},
+{5,6bac586e-2123-4700-bf49-0170314b5f85,"",2},
+{5,dc5da295-ee89-4754-b0f3-3ba2927a1531,"",3},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",3},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Transaction$_.Commit",8},
+{5,50497b9e-780c-4e16-b26e-4534739ee57e,"",4},
+{5,9d9e846d-2815-43ac-99e0-6c1e6f718970,"",5}
