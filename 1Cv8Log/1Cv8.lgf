@@ -11,4 +11,8 @@
 {13,1,1},
 {4,"_$Session$_.Start",2},
 {4,"_$InfoBase$_.ConfigUpdate",3},
-{4,"_$Session$_.Finish",4}
+{4,"_$Session$_.Finish",4},
+{2,"KhDmitr",2},
+{12,
+{0},2},
+{13,2,1}
